@@ -87,7 +87,7 @@ Full project documentation including theory, circuit design, and code explanatio
 
 ## 👤 Author
 
-**Abdul Rahman (Abu)**  
+**Abdul Rahman**  
 Biomedical Engineering Undergraduate  
 ESP32 | IoT | Embedded Systems
 
